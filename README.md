@@ -75,7 +75,7 @@ int main() {
 }
 ```
 ## OUTPUT
-<img width="1025" height="695" alt="Screenshot 2025-10-07 112518" src="https://github.com/user-attachments/assets/3247a15b-9c1e-4a6c-a3af-8f3e740c1dda" />
+![Uploading image.png…]()
 
 ## RESULT
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
